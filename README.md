@@ -3,8 +3,6 @@ Discente: Yasmin Ferreeira Cota
 
 Docente: Amanda Paul Dull
 
-Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
-
 Simular no Tinkercad : https://www.tinkercad.com/things/d7xlGWRdCBl-grand-allis/
 
 Enunciado: Vamos ligar o LED!
